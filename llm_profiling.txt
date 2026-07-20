@@ -1,0 +1,158 @@
+======================================================================
+SOCIO-DEMOGRAPHIC PROFILING DI LLM
+Confronto con profili dei gruppi umani (Donne/Uomini × Under/Over 35)
+======================================================================
+
+Metriche usate:
+  • Pearson r  : correlazione lineare tra i vettori di punteggi (124 item)
+  • Spearman ρ : correlazione sui ranghi (robusta a distribuzioni non normali)
+  • MAE        : errore assoluto medio item per item (più basso = più vicino)
+  • p          : p-value della correlazione (N=124 item)
+
+Profili umani di riferimento:
+  Gruppo                   N annotatori
+  ----------------------  -------------
+  Donne under 35                     71
+  Donne over 35                      68
+  Uomini under 35                    66
+  Uomini over 35                     65
+
+======================================================================
+RISULTATI PER OGNI LLM
+======================================================================
+
+  DIAG_gpt5_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.7968   <.001     0.7864   <.001   0.1966
+  Donne over 35             0.7911   <.001     0.7723   <.001   0.2081
+  Uomini under 35           0.8181   <.001     0.8077   <.001   0.1953
+  Uomini over 35            0.7872   <.001     0.7861   <.001   0.2223
+
+  Festa_Gemini_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.7659   <.001     0.7675   <.001   0.2149
+  Donne over 35             0.7688   <.001     0.7653   <.001   0.2145
+  Uomini under 35           0.7609   <.001     0.7687   <.001   0.2278
+  Uomini over 35            0.7610   <.001     0.7835   <.001   0.2509
+
+  StereoBusters_L33-70B_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.7340   <.001     0.6856   <.001   0.1441
+  Donne over 35             0.7292   <.001     0.6846   <.001   0.1392
+  Uomini under 35           0.6963   <.001     0.6480   <.001   0.1561
+  Uomini over 35            0.7114   <.001     0.6818   <.001   0.1554
+
+  Tiz_Gemma3_12B_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.6252   <.001     0.5769   <.001   0.2328
+  Donne over 35             0.6251   <.001     0.5704   <.001   0.2366
+  Uomini under 35           0.6339   <.001     0.5771   <.001   0.2346
+  Uomini over 35            0.6185   <.001     0.5596   <.001   0.2526
+
+  gsi_gpt4o_both_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.7769   <.001     0.7444   <.001   0.1264
+  Donne over 35             0.7649   <.001     0.7068   <.001   0.1212
+  Uomini under 35           0.7799   <.001     0.7397   <.001   0.1376
+  Uomini over 35            0.7622   <.001     0.7178   <.001   0.1436
+
+  gsi_gpt5nano_split_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.5944   <.001     0.5788   <.001   0.1875
+  Donne over 35             0.5977   <.001     0.5854   <.001   0.1830
+  Uomini under 35           0.6020   <.001     0.5788   <.001   0.1893
+  Uomini over 35            0.5774   <.001     0.5618   <.001   0.1999
+
+  gsi_qwen3_14b_both_matched124  (item: 124/124)
+  ----------------------------------------------------------------------
+  Gruppo                   Pearson       p   Spearman       p      MAE
+  ----------------------  --------  ------  ---------  ------  -------
+  Donne under 35            0.5881   <.001     0.5341   <.001   0.1877
+  Donne over 35             0.6017   <.001     0.5552   <.001   0.1775
+  Uomini under 35           0.5744   <.001     0.5171   <.001   0.1989
+  Uomini over 35            0.5706   <.001     0.5254   <.001   0.2015
+
+======================================================================
+TABELLA COMPARATIVA — PEARSON per tutti gli LLM
+======================================================================
+
+                          DIAG_gpt5_  Festa_Gemi  StereoBust  Tiz_Gemma3  gsi_gpt4o_  gsi_gpt5na  gsi_qwen3_
+  ------------------------------------------------------------------------------------------------------------
+  Donne under 35              0.7968      0.7659      0.7340      0.6252      0.7769      0.5944      0.5881  
+  Donne over 35               0.7911      0.7688      0.7292      0.6251      0.7649      0.5977      0.6017  
+  Uomini under 35             0.8181      0.7609      0.6963      0.6339      0.7799      0.6020      0.5744  
+  Uomini over 35              0.7872      0.7610      0.7114      0.6185      0.7622      0.5774      0.5706  
+
+======================================================================
+TABELLA COMPARATIVA — SPEARMAN per tutti gli LLM
+======================================================================
+
+                          DIAG_gpt5_  Festa_Gemi  StereoBust  Tiz_Gemma3  gsi_gpt4o_  gsi_gpt5na  gsi_qwen3_
+  ------------------------------------------------------------------------------------------------------------
+  Donne under 35              0.7864      0.7675      0.6856      0.5769      0.7444      0.5788      0.5341  
+  Donne over 35               0.7723      0.7653      0.6846      0.5704      0.7068      0.5854      0.5552  
+  Uomini under 35             0.8077      0.7687      0.6480      0.5771      0.7397      0.5788      0.5171  
+  Uomini over 35              0.7861      0.7835      0.6818      0.5596      0.7178      0.5618      0.5254  
+
+======================================================================
+TABELLA COMPARATIVA — MAE per tutti gli LLM
+======================================================================
+
+                          DIAG_gpt5_  Festa_Gemi  StereoBust  Tiz_Gemma3  gsi_gpt4o_  gsi_gpt5na  gsi_qwen3_
+  ------------------------------------------------------------------------------------------------------------
+  Donne under 35              0.1966      0.2149      0.1441      0.2328      0.1264      0.1875      0.1877  
+  Donne over 35               0.2081      0.2145      0.1392      0.2366      0.1212      0.1830      0.1775  
+  Uomini under 35             0.1953      0.2278      0.1561      0.2346      0.1376      0.1893      0.1989  
+  Uomini over 35              0.2223      0.2509      0.1554      0.2526      0.1436      0.1999      0.2015  
+
+======================================================================
+TABELLA DI ASSEGNAZIONE DEMOGRAFICA
+======================================================================
+
+  Criterio: Pearson come metrica primaria, Spearman come conferma.
+  [*] = Pearson e Spearman discordano → caso da discutere nel testo
+        usando MAE come argomento aggiuntivo.
+
+  LLM                                            Profilo assegnato           Pearson→                Spearman→               MAE min
+  ---------------------------------------------  --------------------------  ----------------------  ----------------------  -------
+  DIAG_gpt5_matched124                           Uomini under 35             Uomini under 35         Uomini under 35          0.1953
+  Festa_Gemini_matched124                        Donne over 35 [*]           Donne over 35           Uomini over 35           0.2145
+  StereoBusters_L33-70B_matched124               Donne under 35              Donne under 35          Donne under 35           0.1392
+  Tiz_Gemma3_12B_matched124                      Uomini under 35             Uomini under 35         Uomini under 35          0.2328
+  gsi_gpt4o_both_matched124                      Uomini under 35 [*]         Uomini under 35         Donne under 35           0.1212
+  gsi_gpt5nano_split_matched124                  Uomini under 35 [*]         Uomini under 35         Donne over 35            0.1830
+  gsi_qwen3_14b_both_matched124                  Donne over 35               Donne over 35           Donne over 35            0.1775
+
+  Legenda colonne:
+  Pearson→  : gruppo con Pearson più alta
+  Spearman→ : gruppo con Spearman più alta
+  MAE min   : MAE del gruppo con distanza assoluta minima
+
+======================================================================
+NOTE METODOLOGICHE
+======================================================================
+
+  • I punteggi continui e discreti degli LLM sono trattati uniformemente
+    come valori numerici reali (0.0–1.0).
+  • I profili umani sono costruiti come media per item del gruppo.
+  • Pearson e Spearman più alte = più simile nella direzione dei giudizi.
+  • MAE più bassa = più vicino in termini di valori assoluti.
+  • I p-value si riferiscono a N=124 item. Con questo N anche correlazioni
+    moderate risultano significative; il p-value indica affidabilità
+    statistica, non entità dell'effetto.
+
+======================================================================
+FINE ANALISI
+======================================================================

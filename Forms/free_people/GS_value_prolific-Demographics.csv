@@ -1,0 +1,247 @@
+timestamp,annotator_id,sex,age,education,provenance,political_position,sexual_orientation
+5/4/2026 19:10:43,GS3,F,45,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/4/2026 21:24:29,GS4,F,53,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 4:25:51,GS1,F,52,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 11:18:47,GS10,F,30,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/5/2026 11:23:00,GS9,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 11:33:32,GS12,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 11:33:33,GS12,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 12:39:44,GS19,F,29,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 12:41:48,GS23,F,29,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 12:47:38,GS25,F,28,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 12:54:29,GS27,F,32,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 13:11:42,GS31,F,27,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 13:18:18,GS32,M,25,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 15:47:18,GS41,F,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 16:22:41,GS44,F,34,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Appartenente alla comunità LGBTQIA+
+5/5/2026 16:48:04,GS46,F,34,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 18:37:04,GS48,F,78,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 18:41:41,GS49,M,68,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 19:38:28,GS52,F,44,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 20:17:03,GS55,F,29,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/5/2026 20:17:41,GS54,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 20:21:22,GS56,M,29,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/5/2026 20:31:57,GS58,M,60,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 20:42:21,GS60,F,69,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 21:00:03,GS61,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 21:07:32,GS59,F,69,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 21:10:37,GS63,F,29,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 21:13:19,GS64,M,23,Laurea triennale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/5/2026 22:11:27,GS69,F,62,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/5/2026 23:04:04,GS71,M,25,Scuola secondaria,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Appartenente alla comunità LGBTQIA+
+5/6/2026 8:52:07,GS73,F,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 12:58:17,GS78,M,62,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Destra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 13:12:13,GS80,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/6/2026 13:12:38,GS79,F,20,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/6/2026 13:24:54,GS81,M,18,Scuola secondaria,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 14:51:08,GS86,M,18,Scuola secondaria,"Centro (Toscana, Umbria, Marche, Lazio)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/6/2026 15:17:50,GS92,F,33,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 15:19:39,GS94,M,33,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 15:28:15,GS95,M,32,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Appartenente alla comunità LGBTQIA+
+5/6/2026 15:32:51,GS96,M,32,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 15:39:36,GS98,M,35,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/6/2026 15:41:29,GS99,M,58,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non so
+5/6/2026 15:50:59,GS101,M,38,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 16:01:36,GS102,Altro,38,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 16:02:55,GS103,F,29,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 16:06:56,GS105,F,42,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 16:08:48,GS106,F,37,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 16:53:49,GS111,M,48,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 17:04:01,GS112,F,36,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 17:29:55,GS114,M,46,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 17:39:27,GS117,Altro,30,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 17:39:47,GS118,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 18:19:53,GS123,F,43,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 18:48:20,GS128,F,48,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 18:57:10,GS130,Altro,42,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 19:09:58,GS131,Altro,25,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 19:41:08,GS134,F,49,Dottorato,Altro,Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 19:42:26,GS135,F,54,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 20:10:18,GS136,F,34,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 20:32:53,GS138,F,30,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 20:44:38,GS139,F,57,Diploma,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 20:59:35,GS141,M,48,Scuola secondaria,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 21:00:48,GS142,M,41,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/6/2026 21:27:18,GS143,F,40,Laurea triennale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 21:35:44,GS145,F,36,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/6/2026 21:35:44,GS145,F,36,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/6/2026 21:57:03,GS146,F,27,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/6/2026 22:00:36,GS147,F,43,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non so
+5/6/2026 22:06:58,GS148,F,35,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 22:29:49,GS151,F,44,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non appartenente alla comunità LGBTQIA+
+5/6/2026 22:40:42,GS152,F,58,Altro,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 22:46:20,GS153,M,44,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/6/2026 23:15:23,GS156,F,31,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 8:04:15,GS166,F,46,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 9:11:50,GS167,M,33,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/7/2026 9:46:29,GS168,F,29,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 10:11:58,GS170,F,61,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/7/2026 10:47:14,GS171,F,18,Scuola secondaria,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 11:53:01,GS174,F,42,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 14:10:28,GS177,M,41,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:21:22,GS182,M,41,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:25:48,GS181,F,49,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:36:33,GS184,F,99,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:37:26,GS185,F,42,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:37:27,GS185,F,42,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 15:55:20,GS187,F,61,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 16:10:19,GS188,Altro,43,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/7/2026 17:22:36,GS189,F,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/7/2026 17:43:15,GS191,F,61,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 18:19:03,GS194,F,70,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 18:35:59,GS195,F,36,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 18:49:42,GS196,M,45,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non so
+5/7/2026 19:10:07,GS197,F,41,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 19:42:03,GS198,F,27,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/7/2026 20:08:08,GS200,M,66,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non appartenente alla comunità LGBTQIA+
+5/7/2026 20:29:01,GS201,M,55,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/7/2026 20:33:24,GS202,F,25,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 21:25:49,GS205,F,29,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 21:32:54,GS206,M,46,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Non so
+5/7/2026 22:22:59,GS210,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/7/2026 22:37:16,GS212,M,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Appartenente alla comunità LGBTQIA+
+5/7/2026 22:44:33,GS211,F,43,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non appartenente alla comunità LGBTQIA+
+5/7/2026 22:54:17,GS213,F,40,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/7/2026 23:51:58,GS215,M,39,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 3:47:51,GS216,F,59,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 10:16:43,GS221,F,27,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/8/2026 10:17:04,GS219,F,47,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 10:22:40,GS222,F,48,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/8/2026 11:30:43,GS218,F,52,Altro,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 12:36:46,GS223,M,27,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 13:07:02,GS224,F,33,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 13:09:13,GS225,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 13:49:37,GS228,Altro,28,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/8/2026 18:26:16,GS233,F,60,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/8/2026 19:05:29,GS235,M,50,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Appartenente alla comunità LGBTQIA+
+5/8/2026 22:37:52,GS236,F,64,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 6:48:19,GS237,F,40,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 9:07:56,GS238,M,49,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 18:14:46,GS241,M,47,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 18:46:25,GS244,F,73,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 18:49:48,GS245,M,44,Laurea triennale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 19:07:24,GS13,M,26,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/9/2026 19:11:57,GS248,M,53,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/9/2026 19:11:59,GS247,F,32,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 19:46:31,GS249,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 20:13:11,GS250,M,62,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Destra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 20:25:45,GS251,F,32,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/9/2026 22:52:30,GS252,F,46,Dottorato,Altro,Sinistra,Non appartenente alla comunità LGBTQIA+
+5/9/2026 23:34:05,GS240,F,18,Scuola secondaria,"Centro (Toscana, Umbria, Marche, Lazio)",Non voto,Appartenente alla comunità LGBTQIA+
+5/10/2026 10:45:20,GS255,F,24,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/10/2026 12:58:21,GS256,F,59,Altro,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/10/2026 18:19:07,GS258,F,36,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/10/2026 21:42:37,GS262,F,56,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/10/2026 21:43:09,GS261,M,35,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/10/2026 22:47:57,GS263,F,57,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/11/2026 7:03:32,GS264,F,43,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/11/2026 11:46:33,GS268,F,53,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/11/2026 17:59:29,GS271,F,31,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/11/2026 19:04:14,GS272,F,34,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/11/2026 19:47:56,GS273,F,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:49:44,GS276,F,22,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:07,GS277,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:37,GS281,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:37,GS280,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:44,GS289,F,22,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:47,GS296,F,20,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:50:56,GS287,F,20,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:51:12,GS279,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:52:14,GS288,F,20,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:52:23,GS290,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:52:35,GS284,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:52:41,GS284,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:02,GS304,M,20,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:02,GS304,M,20,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:11,GS285,M,26,Altro,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:12,GS285,M,26,Altro,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:18,GS285,M,26,Altro,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:32,GS295,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:40,GS295,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:45,GS295,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:52,GS291,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:53:57,GS291,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:02,GS291,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:09,GS291,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:22,GS299,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:26,GS298,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:30,GS298,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:41,GS298,F,19,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:54:49,GS302,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:00,GS286,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:10,GS302,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:34,GS294,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:38,GS293,F,20,Diploma,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:43,GS292,F,24,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:48,GS300,F,24,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:55:56,GS300,F,24,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 9:56:01,GS292,F,24,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:56:55,GS301,F,47,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:57:17,GS282,F,24,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:57:25,GS306,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:57:36,GS283,F,20,Diploma,"Centro (Toscana, Umbria, Marche, Lazio)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:57:45,GS306,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 9:57:51,GS306,F,21,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:06:32,GS308,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:06:46,GS308,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:06:50,GS308,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:06:54,GS308,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:14:42,GS309,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:15:02,GS309,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:15:03,GS309,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/12/2026 10:37:08,GS311,F,24,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 15:14:34,GS318,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/12/2026 15:22:08,GS319,F,36,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/12/2026 15:51:22,GS320,F,20,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/13/2026 5:26:05,GS324,F,32,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/13/2026 13:24:32,GS326,M,39,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/13/2026 17:21:50,GS327,M,51,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/14/2026 13:54:55,GS335,M,31,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/14/2026 14:31:13,GS336,F,26,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 12:12:21,GS339,M,35,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/15/2026 12:13:23,GS340,M,35,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 12:17:11,GS341,F,27,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/15/2026 12:22:18,GS343,M,34,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 12:26:09,GS344,M,31,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/15/2026 12:27:43,GS345,Altro,55,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/15/2026 12:37:11,GS346,M,45,Laurea triennale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 13:33:35,GS349,M,49,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 13:53:05,GS350,F,40,Diploma,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 14:17:28,GS354,M,29,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 16:19:06,GS355,M,46,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/15/2026 18:10:24,GS356,Altro,40,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/16/2026 14:08:20,GS357,Altro,36,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/16/2026 19:00:43,GS358,F,33,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/18/2026 16:24:23,GS359,F,36,Laurea triennale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/18/2026 18:48:38,GS360,M,37,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/19/2026 18:28:43,GS363,F,18,Scuola secondaria,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/19/2026 21:25:57,GS364,F,55,Scuola secondaria,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non so
+5/20/2026 11:04:05,GS365,M,46,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/21/2026 10:57:51,GS366,F,60,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Destra,Non appartenente alla comunità LGBTQIA+
+5/21/2026 11:07:32,GS367,M,64,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/21/2026 13:44:21,GS370,M,32,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non so
+5/21/2026 14:06:29,GS371,F,31,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/21/2026 15:20:04,GS372,Altro,31,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Appartenente alla comunità LGBTQIA+
+5/21/2026 17:50:22,GS373,F,25,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/21/2026 22:00:33,GS377,M,56,Dottorato,Altro,Sinistra,Non appartenente alla comunità LGBTQIA+
+5/22/2026 9:38:20,GS378,Altro,29,Altro,Altro,Non voto,Non so
+5/22/2026 13:23:30,GS379,F,27,Laurea triennale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/22/2026 18:41:38,GS384,F,54,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/23/2026 5:25:50,GS389,F,63,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+
+5/23/2026 8:39:12,GS390,F,42,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/23/2026 9:10:58,GS391,F,50,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Non voto,Appartenente alla comunità LGBTQIA+
+5/24/2026 19:32:31,GS400,F,29,Diploma,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Non voto,Non so
+5/25/2026 13:47:52,GS402,F,51,Laurea magistrale,Altro,Sinistra,Non appartenente alla comunità LGBTQIA+
+5/25/2026 14:55:16,GS403,F,46,Dottorato,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/25/2026 18:43:47,GS405,F,49,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/26/2026 0:56:40,GS407,F,18,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/26/2026 7:06:56,GS409,F,30,Dottorato,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Appartenente alla comunità LGBTQIA+
+5/26/2026 22:11:11,GS411,F,21,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/27/2026 21:18:29,GS412,F,41,Laurea magistrale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/27/2026 22:27:46,GS413,F,26,Laurea magistrale,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/27/2026 22:35:44,GS414,F,29,Dottorato,"Centro (Toscana, Umbria, Marche, Lazio)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/28/2026 12:04:35,GS416,M,32,Laurea magistrale,"Sud (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sicilia, Sardegna)",Sinistra,Non appartenente alla comunità LGBTQIA+
+5/29/2026 22:12:01,GS418,F,53,Laurea triennale,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Non voto,Non appartenente alla comunità LGBTQIA+
+5/30/2026 14:21:05,GS420,F,20,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Sinistra,Non so
+5/31/2026 15:51:50,GS424,F,55,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Appartenente alla comunità LGBTQIA+
+5/31/2026 22:02:12,GS427,F,65,Diploma,"Nord (Valle d'Aosta, Piemonte, Liguria, Lombardia, Trentino-Alto Adige/Südtirol, Veneto, Friuli-Venezia Giulia, Emilia-Romagna)",Centro,Non appartenente alla comunità LGBTQIA+

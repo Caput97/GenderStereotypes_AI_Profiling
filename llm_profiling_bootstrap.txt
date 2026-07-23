@@ -1,0 +1,304 @@
+====================================================================================================
+SOCIO-DEMOGRAPHIC LLM PROFILING — HIERARCHICAL BOOTSTRAP
+====================================================================================================
+Bootstrap replicates per model: 10000
+Confidence level: 95.0%
+
+Human group sizes:
+  Donne under 35         : 71
+  Donne over 35          : 68
+  Uomini under 35        : 66
+  Uomini over 35         : 65
+
+====================================================================================================
+LLM: DIAG_gpt5_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.7968 (p=<.001), CI [0.7104, 0.8546] | Spearman 0.7863 (p=<.001), CI [0.6848, 0.8444] | MAE 0.1966, CI [0.1724, 0.2251]
+Donne over 35           | Pearson 0.7911 (p=<.001), CI [0.6948, 0.8538] | Spearman 0.7723 (p=<.001), CI [0.6557, 0.8426] | MAE 0.2081, CI [0.1825, 0.2371]
+Uomini under 35         | Pearson 0.8181 (p=<.001), CI [0.7434, 0.8676] | Spearman 0.8078 (p=<.001), CI [0.7239, 0.8592] | MAE 0.1953, CI [0.1720, 0.2219]
+Uomini over 35          | Pearson 0.7872 (p=<.001), CI [0.6956, 0.8454] | Spearman 0.7861 (p=<.001), CI [0.6794, 0.8435] | MAE 0.2223, CI [0.1974, 0.2500]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                      0.0057   -0.0359    0.0530    1.000
+Donne under 35 vs Uomini under 35                   -0.0213   -0.0695    0.0208    1.000
+Donne under 35 vs Uomini over 35                     0.0096   -0.0339    0.0569    1.000
+Donne over 35 vs Uomini under 35                    -0.0271   -0.0853    0.0209    1.000
+Donne over 35 vs Uomini over 35                      0.0039   -0.0429    0.0499    1.000
+Uomini under 35 vs Uomini over 35                    0.0309   -0.0100    0.0821    0.829
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.127 | Spearman 0.131 | MAE 0.381
+Donne over 35           | Pearson 0.098 | Spearman 0.071 | MAE 0.052
+Uomini under 35         | Pearson 0.740 | Spearman 0.711 | MAE 0.567
+Uomini over 35          | Pearson 0.034 | Spearman 0.088 | MAE 0.000
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Uomini under 35
+Best Spearman: Uomini under 35
+Best MAE     : Uomini under 35
+Pearson/Spearman agree: YES
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0213, CI [-0.0208, 0.0695], p_Holm=1.000
+  vs Donne over 35         : Δr=0.0271, CI [-0.0209, 0.0853], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0309, CI [-0.0100, 0.0821], p_Holm=0.829
+
+====================================================================================================
+LLM: Festa_Gemini_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.7659 (p=<.001), CI [0.6632, 0.8409] | Spearman 0.7675 (p=<.001), CI [0.6677, 0.8339] | MAE 0.2149, CI [0.1870, 0.2470]
+Donne over 35           | Pearson 0.7688 (p=<.001), CI [0.6627, 0.8426] | Spearman 0.7653 (p=<.001), CI [0.6494, 0.8305] | MAE 0.2145, CI [0.1840, 0.2478]
+Uomini under 35         | Pearson 0.7609 (p=<.001), CI [0.6611, 0.8323] | Spearman 0.7688 (p=<.001), CI [0.6712, 0.8307] | MAE 0.2278, CI [0.1980, 0.2610]
+Uomini over 35          | Pearson 0.7610 (p=<.001), CI [0.6606, 0.8314] | Spearman 0.7835 (p=<.001), CI [0.6868, 0.8452] | MAE 0.2509, CI [0.2212, 0.2822]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                     -0.0030   -0.0477    0.0468    1.000
+Donne under 35 vs Uomini under 35                    0.0050   -0.0389    0.0528    1.000
+Donne under 35 vs Uomini over 35                     0.0049   -0.0429    0.0559    1.000
+Donne over 35 vs Uomini under 35                     0.0080   -0.0475    0.0603    1.000
+Donne over 35 vs Uomini over 35                      0.0078   -0.0421    0.0563    1.000
+Uomini under 35 vs Uomini over 35                   -0.0001   -0.0467    0.0482    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.286 | Spearman 0.200 | MAE 0.453
+Donne over 35           | Pearson 0.336 | Spearman 0.112 | MAE 0.483
+Uomini under 35         | Pearson 0.211 | Spearman 0.169 | MAE 0.064
+Uomini over 35          | Pearson 0.168 | Spearman 0.519 | MAE 0.000
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Donne over 35
+Best Spearman: Uomini over 35
+Best MAE     : Donne over 35
+Pearson/Spearman agree: NO
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0030, CI [-0.0468, 0.0477], p_Holm=1.000
+  vs Uomini under 35       : Δr=0.0080, CI [-0.0475, 0.0603], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0078, CI [-0.0421, 0.0563], p_Holm=1.000
+
+====================================================================================================
+LLM: StereoBusters_L33-70B_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.7340 (p=<.001), CI [0.6059, 0.8247] | Spearman 0.6857 (p=<.001), CI [0.5469, 0.7816] | MAE 0.1441, CI [0.1237, 0.1698]
+Donne over 35           | Pearson 0.7292 (p=<.001), CI [0.6063, 0.8143] | Spearman 0.6846 (p=<.001), CI [0.5491, 0.7772] | MAE 0.1392, CI [0.1194, 0.1657]
+Uomini under 35         | Pearson 0.6963 (p=<.001), CI [0.5565, 0.7967] | Spearman 0.6483 (p=<.001), CI [0.4999, 0.7578] | MAE 0.1561, CI [0.1326, 0.1857]
+Uomini over 35          | Pearson 0.7114 (p=<.001), CI [0.5730, 0.8082] | Spearman 0.6818 (p=<.001), CI [0.5350, 0.7841] | MAE 0.1554, CI [0.1330, 0.1848]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                      0.0049   -0.0444    0.0572    1.000
+Donne under 35 vs Uomini under 35                    0.0377   -0.0034    0.0834    0.446
+Donne under 35 vs Uomini over 35                     0.0227   -0.0195    0.0730    1.000
+Donne over 35 vs Uomini under 35                     0.0329   -0.0232    0.0902    1.000
+Donne over 35 vs Uomini over 35                      0.0178   -0.0337    0.0747    1.000
+Uomini under 35 vs Uomini over 35                   -0.0151   -0.0583    0.0327    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.552 | Spearman 0.348 | MAE 0.297
+Donne over 35           | Pearson 0.361 | Spearman 0.348 | MAE 0.656
+Uomini under 35         | Pearson 0.012 | Spearman 0.014 | MAE 0.015
+Uomini over 35          | Pearson 0.075 | Spearman 0.291 | MAE 0.031
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Donne under 35
+Best Spearman: Donne under 35
+Best MAE     : Donne over 35
+Pearson/Spearman agree: YES
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne over 35         : Δr=0.0049, CI [-0.0444, 0.0572], p_Holm=1.000
+  vs Uomini under 35       : Δr=0.0377, CI [-0.0034, 0.0834], p_Holm=0.446
+  vs Uomini over 35        : Δr=0.0227, CI [-0.0195, 0.0730], p_Holm=1.000
+
+====================================================================================================
+LLM: Tiz_Gemma3_12B_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.6252 (p=<.001), CI [0.4850, 0.7363] | Spearman 0.5769 (p=<.001), CI [0.4158, 0.6950] | MAE 0.2328, CI [0.2010, 0.2678]
+Donne over 35           | Pearson 0.6251 (p=<.001), CI [0.4852, 0.7299] | Spearman 0.5704 (p=<.001), CI [0.4106, 0.6914] | MAE 0.2366, CI [0.2063, 0.2700]
+Uomini under 35         | Pearson 0.6339 (p=<.001), CI [0.4994, 0.7400] | Spearman 0.5774 (p=<.001), CI [0.4218, 0.6976] | MAE 0.2346, CI [0.2031, 0.2700]
+Uomini over 35          | Pearson 0.6185 (p=<.001), CI [0.4758, 0.7267] | Spearman 0.5596 (p=<.001), CI [0.3989, 0.6893] | MAE 0.2526, CI [0.2214, 0.2870]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                      0.0001   -0.0593    0.0624    1.000
+Donne under 35 vs Uomini under 35                   -0.0088   -0.0657    0.0455    1.000
+Donne under 35 vs Uomini over 35                     0.0067   -0.0554    0.0731    1.000
+Donne over 35 vs Uomini under 35                    -0.0088   -0.0793    0.0581    1.000
+Donne over 35 vs Uomini over 35                      0.0066   -0.0598    0.0758    1.000
+Uomini under 35 vs Uomini over 35                    0.0154   -0.0418    0.0802    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.219 | Spearman 0.234 | MAE 0.431
+Donne over 35           | Pearson 0.246 | Spearman 0.253 | MAE 0.240
+Uomini under 35         | Pearson 0.388 | Spearman 0.349 | MAE 0.326
+Uomini over 35          | Pearson 0.147 | Spearman 0.164 | MAE 0.004
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Uomini under 35
+Best Spearman: Uomini under 35
+Best MAE     : Donne under 35
+Pearson/Spearman agree: YES
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0088, CI [-0.0455, 0.0657], p_Holm=1.000
+  vs Donne over 35         : Δr=0.0088, CI [-0.0581, 0.0793], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0154, CI [-0.0418, 0.0802], p_Holm=1.000
+
+====================================================================================================
+LLM: gsi_gpt4o_both_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.7769 (p=<.001), CI [0.6733, 0.8485] | Spearman 0.7443 (p=<.001), CI [0.6262, 0.8195] | MAE 0.1264, CI [0.1063, 0.1526]
+Donne over 35           | Pearson 0.7649 (p=<.001), CI [0.6489, 0.8402] | Spearman 0.7068 (p=<.001), CI [0.5739, 0.7950] | MAE 0.1212, CI [0.1037, 0.1473]
+Uomini under 35         | Pearson 0.7799 (p=<.001), CI [0.6836, 0.8475] | Spearman 0.7397 (p=<.001), CI [0.6274, 0.8208] | MAE 0.1376, CI [0.1159, 0.1660]
+Uomini over 35          | Pearson 0.7622 (p=<.001), CI [0.6484, 0.8367] | Spearman 0.7178 (p=<.001), CI [0.5882, 0.8073] | MAE 0.1436, CI [0.1202, 0.1739]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                      0.0120   -0.0304    0.0638    1.000
+Donne under 35 vs Uomini under 35                   -0.0030   -0.0455    0.0378    1.000
+Donne under 35 vs Uomini over 35                     0.0147   -0.0264    0.0664    1.000
+Donne over 35 vs Uomini under 35                    -0.0150   -0.0726    0.0322    1.000
+Donne over 35 vs Uomini over 35                      0.0027   -0.0441    0.0495    1.000
+Uomini under 35 vs Uomini over 35                    0.0177   -0.0238    0.0699    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.354 | Spearman 0.440 | MAE 0.301
+Donne over 35           | Pearson 0.140 | Spearman 0.033 | MAE 0.660
+Uomini under 35         | Pearson 0.430 | Spearman 0.460 | MAE 0.030
+Uomini over 35          | Pearson 0.076 | Spearman 0.067 | MAE 0.010
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Uomini under 35
+Best Spearman: Donne under 35
+Best MAE     : Donne over 35
+Pearson/Spearman agree: NO
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0030, CI [-0.0378, 0.0455], p_Holm=1.000
+  vs Donne over 35         : Δr=0.0150, CI [-0.0322, 0.0726], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0177, CI [-0.0238, 0.0699], p_Holm=1.000
+
+====================================================================================================
+LLM: gsi_gpt5nano_split_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.5944 (p=<.001), CI [0.4429, 0.7167] | Spearman 0.5786 (p=<.001), CI [0.4228, 0.6925] | MAE 0.1875, CI [0.1599, 0.2202]
+Donne over 35           | Pearson 0.5977 (p=<.001), CI [0.4473, 0.7153] | Spearman 0.5854 (p=<.001), CI [0.4312, 0.6991] | MAE 0.1830, CI [0.1569, 0.2149]
+Uomini under 35         | Pearson 0.6020 (p=<.001), CI [0.4508, 0.7226] | Spearman 0.5788 (p=<.001), CI [0.4280, 0.6995] | MAE 0.1893, CI [0.1616, 0.2228]
+Uomini over 35          | Pearson 0.5774 (p=<.001), CI [0.4196, 0.7016] | Spearman 0.5618 (p=<.001), CI [0.3978, 0.6843] | MAE 0.1999, CI [0.1720, 0.2321]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                     -0.0034   -0.0638    0.0578    1.000
+Donne under 35 vs Uomini under 35                   -0.0076   -0.0611    0.0429    1.000
+Donne under 35 vs Uomini over 35                     0.0170   -0.0420    0.0793    1.000
+Donne over 35 vs Uomini under 35                    -0.0043   -0.0718    0.0597    1.000
+Donne over 35 vs Uomini over 35                      0.0203   -0.0418    0.0844    1.000
+Uomini under 35 vs Uomini over 35                    0.0246   -0.0309    0.0866    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.220 | Spearman 0.204 | MAE 0.210
+Donne over 35           | Pearson 0.318 | Spearman 0.395 | MAE 0.591
+Uomini under 35         | Pearson 0.396 | Spearman 0.326 | MAE 0.186
+Uomini over 35          | Pearson 0.066 | Spearman 0.075 | MAE 0.013
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Uomini under 35
+Best Spearman: Donne over 35
+Best MAE     : Donne over 35
+Pearson/Spearman agree: NO
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0076, CI [-0.0429, 0.0611], p_Holm=1.000
+  vs Donne over 35         : Δr=0.0043, CI [-0.0597, 0.0718], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0246, CI [-0.0309, 0.0866], p_Holm=1.000
+
+====================================================================================================
+LLM: gsi_qwen3_14b_both_matched124
+====================================================================================================
+Shared items used: 124
+
+METRICS AND BOOTSTRAP CONFIDENCE INTERVALS
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.5881 (p=<.001), CI [0.4413, 0.7067] | Spearman 0.5340 (p=<.001), CI [0.3758, 0.6576] | MAE 0.1877, CI [0.1612, 0.2190]
+Donne over 35           | Pearson 0.6017 (p=<.001), CI [0.4567, 0.7161] | Spearman 0.5552 (p=<.001), CI [0.4069, 0.6764] | MAE 0.1775, CI [0.1525, 0.2073]
+Uomini under 35         | Pearson 0.5744 (p=<.001), CI [0.4198, 0.6981] | Spearman 0.5172 (p=<.001), CI [0.3515, 0.6478] | MAE 0.1989, CI [0.1715, 0.2308]
+Uomini over 35          | Pearson 0.5706 (p=<.001), CI [0.4151, 0.6920] | Spearman 0.5254 (p=<.001), CI [0.3567, 0.6508] | MAE 0.2015, CI [0.1746, 0.2321]
+
+PAIRWISE PEARSON COMPARISONS
+----------------------------------------------------------------------------------------------------
+Comparison                                          Delta r    CI low   CI high   p Holm
+Donne under 35 vs Donne over 35                     -0.0136   -0.0679    0.0435    1.000
+Donne under 35 vs Uomini under 35                    0.0138   -0.0339    0.0637    1.000
+Donne under 35 vs Uomini over 35                     0.0175   -0.0315    0.0728    1.000
+Donne over 35 vs Uomini under 35                     0.0273   -0.0337    0.0870    1.000
+Donne over 35 vs Uomini over 35                      0.0311   -0.0240    0.0900    1.000
+Uomini under 35 vs Uomini over 35                    0.0038   -0.0428    0.0547    1.000
+
+BOOTSTRAP SELECTION FREQUENCY
+----------------------------------------------------------------------------------------------------
+Donne under 35          | Pearson 0.259 | Spearman 0.186 | MAE 0.113
+Donne over 35           | Pearson 0.593 | Spearman 0.663 | MAE 0.869
+Uomini under 35         | Pearson 0.092 | Spearman 0.062 | MAE 0.012
+Uomini over 35          | Pearson 0.056 | Spearman 0.089 | MAE 0.006
+
+ASSIGNMENT
+----------------------------------------------------------------------------------------------------
+Best Pearson : Donne over 35
+Best Spearman: Donne over 35
+Best MAE     : Donne over 35
+Pearson/Spearman agree: YES
+Best Pearson group better than all alternatives by 95% CI: NO
+  vs Donne under 35        : Δr=0.0136, CI [-0.0435, 0.0679], p_Holm=1.000
+  vs Uomini under 35       : Δr=0.0273, CI [-0.0337, 0.0870], p_Holm=1.000
+  vs Uomini over 35        : Δr=0.0311, CI [-0.0240, 0.0900], p_Holm=1.000
+
+====================================================================================================
+CROSS-MODEL SUMMARY
+====================================================================================================
+LLM                                        Best Pearson            Best freq.  P/S agree   Supported
+----------------------------------------------------------------------------------------------------
+DIAG_gpt5_matched124                       Uomini under 35              0.740        YES          NO
+Festa_Gemini_matched124                    Donne over 35                0.336         NO          NO
+StereoBusters_L33-70B_matched124           Donne under 35               0.552        YES          NO
+Tiz_Gemma3_12B_matched124                  Uomini under 35              0.388        YES          NO
+gsi_gpt4o_both_matched124                  Uomini under 35              0.430         NO          NO
+gsi_gpt5nano_split_matched124              Uomini under 35              0.396         NO          NO
+gsi_qwen3_14b_both_matched124              Donne over 35                0.593        YES          NO

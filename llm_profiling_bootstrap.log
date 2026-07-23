@@ -1,0 +1,11 @@
+nohup: ignoring input
+Found 7 LLM files
+[1/7] DIAG_gpt5_matched124
+[2/7] Festa_Gemini_matched124
+[3/7] StereoBusters_L33-70B_matched124
+[4/7] Tiz_Gemma3_12B_matched124
+[5/7] gsi_gpt4o_both_matched124
+[6/7] gsi_gpt5nano_split_matched124
+[7/7] gsi_qwen3_14b_both_matched124
+Text report saved to: /home/dtesta/GenderStereotypes_AI_Profiling/llm_profiling_bootstrap.txt
+JSON results saved to: /home/dtesta/GenderStereotypes_AI_Profiling/llm_profiling_bootstrap.json

@@ -21,7 +21,7 @@ from collections import defaultdict
 # ─────────────────────────────────────────────
 # CONFIGURAZIONE — modifica questi path
 # ─────────────────────────────────────────────
-ANNOTATIONS_FILE = "/home/dtesta/GSI-detect_LLM_Socioprofiling/Forms/annotation_results_noGSno.json"
+ANNOTATIONS_FILE = "/home/dtesta/GenderStereotypes_AI_Profiling/Forms/annotation_results_noGSno.json"
 LLM_FOLDER       = "/home/dtesta/GSI-detect_LLM_Socioprofiling/LLMs/124Matched"
 OUTPUT_FILE      = "/home/dtesta/GSI-detect_LLM_Socioprofiling/LLM_profiling/llm_profiling.txt"
 

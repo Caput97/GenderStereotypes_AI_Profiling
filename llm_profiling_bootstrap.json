@@ -1,0 +1,1514 @@
+{
+  "DIAG_gpt5_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.7968095586150332,
+        "p_pearson": 1.824940851384562e-28,
+        "spearman": 0.786328598438259,
+        "p_spearman": 2.781650994175934e-27,
+        "mae": 0.19663107678328032,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.7910872058841771,
+        "p_pearson": 8.233109502313805e-28,
+        "spearman": 0.7723004205932948,
+        "p_spearman": 8.464842423279389e-26,
+        "mae": 0.20809179316888046,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.8181435790807233,
+        "p_pearson": 4.208167299373499e-31,
+        "spearman": 0.8077961986859722,
+        "p_spearman": 8.79671704503081e-30,
+        "mae": 0.19531647116324535,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.7872112503388263,
+        "p_pearson": 2.2246042399052544e-27,
+        "spearman": 0.7860913834781751,
+        "p_spearman": 2.9532947858510873e-27,
+        "mae": 0.2223399503722084,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.7968095586150332,
+          "ci_low": 0.7104199220292959,
+          "ci_high": 0.8546449993530174
+        },
+        "spearman": {
+          "estimate": 0.786328598438259,
+          "ci_low": 0.6848160440028341,
+          "ci_high": 0.8443771881865276
+        },
+        "mae": {
+          "estimate": 0.19663107678328032,
+          "ci_low": 0.1724237562471604,
+          "ci_high": 0.22509558155383916
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.7910872058841771,
+          "ci_low": 0.6947987463524914,
+          "ci_high": 0.8537689575291837
+        },
+        "spearman": {
+          "estimate": 0.7723004205932948,
+          "ci_low": 0.6556669325059953,
+          "ci_high": 0.8425710494329036
+        },
+        "mae": {
+          "estimate": 0.20809179316888046,
+          "ci_low": 0.18248283325426942,
+          "ci_high": 0.2370807637571157
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.8181435790807233,
+          "ci_low": 0.7434474541038086,
+          "ci_high": 0.867631499392978
+        },
+        "spearman": {
+          "estimate": 0.8077961986859722,
+          "ci_low": 0.7238880482071789,
+          "ci_high": 0.8591747274793121
+        },
+        "mae": {
+          "estimate": 0.19531647116324535,
+          "ci_low": 0.17199572336265886,
+          "ci_high": 0.22185010386119253
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.7872112503388263,
+          "ci_low": 0.6955770343802484,
+          "ci_high": 0.8453624503429262
+        },
+        "spearman": {
+          "estimate": 0.7860913834781751,
+          "ci_low": 0.6794188768558665,
+          "ci_high": 0.8434508038772465
+        },
+        "mae": {
+          "estimate": 0.2223399503722084,
+          "ci_low": 0.19736386476426798,
+          "ci_high": 0.2499879342431762
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": 0.005722352730856084,
+        "ci_low": -0.03594216248353617,
+        "ci_high": 0.05296035679715768,
+        "p_raw": 0.714928507149285,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.021334020465690107,
+        "ci_low": -0.06951938073052129,
+        "ci_high": 0.020829819559923666,
+        "p_raw": 0.3457654234576542,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.00959830827620689,
+        "ci_low": -0.033859393988600606,
+        "ci_high": 0.056932462487736514,
+        "p_raw": 0.5927407259274072,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.02705637319654619,
+        "ci_low": -0.08529963364469786,
+        "ci_high": 0.020905369572635897,
+        "p_raw": 0.27477252274772523,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.0038759555453508066,
+        "ci_low": -0.04287231596030104,
+        "ci_high": 0.04992765795981656,
+        "p_raw": 0.8625137486251375,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.030932328741896997,
+        "ci_low": -0.010016990888819074,
+        "ci_high": 0.0820951790338159,
+        "p_raw": 0.1381861813818618,
+        "p_holm": 0.8291170882911709
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.1273,
+        "Donne over 35": 0.098,
+        "Uomini under 35": 0.7404,
+        "Uomini over 35": 0.0343
+      },
+      "spearman": {
+        "Donne under 35": 0.1311,
+        "Donne over 35": 0.0707,
+        "Uomini under 35": 0.7106,
+        "Uomini over 35": 0.0876
+      },
+      "mae": {
+        "Donne under 35": 0.3806,
+        "Donne over 35": 0.0522,
+        "Uomini under 35": 0.5671,
+        "Uomini over 35": 0.0001
+      }
+    },
+    "assignment": {
+      "best_pearson": "Uomini under 35",
+      "best_spearman": "Uomini under 35",
+      "best_mae": "Uomini under 35",
+      "pearson_spearman_agree": 1,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.021334020465690107,
+          "ci_low": -0.020829819559923666,
+          "ci_high": 0.06951938073052129,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Donne over 35",
+          "delta": 0.02705637319654619,
+          "ci_low": -0.020905369572635897,
+          "ci_high": 0.08529963364469786,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.030932328741896997,
+          "ci_low": -0.010016990888819074,
+          "ci_high": 0.0820951790338159,
+          "p_holm": 0.8291170882911709,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "Festa_Gemini_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.7658914029812023,
+        "p_pearson": 3.7198958770768323e-25,
+        "spearman": 0.7674945693956358,
+        "p_spearman": 2.5801611674054996e-25,
+        "mae": 0.21487846433439348,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.7688449598197478,
+        "p_pearson": 1.8915700671872412e-25,
+        "spearman": 0.7653119119406327,
+        "p_spearman": 4.242779793297271e-25,
+        "mae": 0.21451019924098674,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.7608860757894403,
+        "p_pearson": 1.1443074988902004e-24,
+        "spearman": 0.7687561406817467,
+        "p_spearman": 1.9307157023202126e-25,
+        "mae": 0.22777492668621704,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.7609978418152745,
+        "p_pearson": 1.1162884013238603e-24,
+        "spearman": 0.7835083825128688,
+        "p_spearman": 5.6408049775591164e-27,
+        "mae": 0.2509044665012407,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.7658914029812023,
+          "ci_low": 0.663246469914782,
+          "ci_high": 0.8409131846475701
+        },
+        "spearman": {
+          "estimate": 0.7674945693956358,
+          "ci_low": 0.6677011175037404,
+          "ci_high": 0.8338707910137968
+        },
+        "mae": {
+          "estimate": 0.21487846433439348,
+          "ci_low": 0.18697202975920033,
+          "ci_high": 0.2470162994093593
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.7688449598197478,
+          "ci_low": 0.6627458836534045,
+          "ci_high": 0.8425815940464786
+        },
+        "spearman": {
+          "estimate": 0.7653119119406327,
+          "ci_low": 0.6493555754968942,
+          "ci_high": 0.8304813216926619
+        },
+        "mae": {
+          "estimate": 0.21451019924098674,
+          "ci_low": 0.18398241816888045,
+          "ci_high": 0.247794384487666
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.7608860757894403,
+          "ci_low": 0.6610906998250442,
+          "ci_high": 0.8322630042494372
+        },
+        "spearman": {
+          "estimate": 0.7687561406817467,
+          "ci_low": 0.671220170504918,
+          "ci_high": 0.8307336807190555
+        },
+        "mae": {
+          "estimate": 0.22777492668621704,
+          "ci_low": 0.19798359604105573,
+          "ci_high": 0.2609751649560118
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.7609978418152745,
+          "ci_low": 0.6605791378392606,
+          "ci_high": 0.8314260154200823
+        },
+        "spearman": {
+          "estimate": 0.7835083825128688,
+          "ci_low": 0.6867882129976947,
+          "ci_high": 0.8451829684847457
+        },
+        "mae": {
+          "estimate": 0.2509044665012407,
+          "ci_low": 0.22122766749379652,
+          "ci_high": 0.28219556451612904
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": -0.002953556838545479,
+        "ci_low": -0.04767951042695667,
+        "ci_high": 0.04681275421501573,
+        "p_raw": 0.9739026097390261,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.0050053271917619435,
+        "ci_low": -0.038938975724276736,
+        "ci_high": 0.05275443648653095,
+        "p_raw": 0.8253174682531746,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.004893561165927762,
+        "ci_low": -0.04288704385048674,
+        "ci_high": 0.05589966901857758,
+        "p_raw": 0.7673232676732327,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.007958884030307423,
+        "ci_low": -0.04745640458051221,
+        "ci_high": 0.06025948170538977,
+        "p_raw": 0.8283171682831717,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.007847118004473241,
+        "ci_low": -0.04213914029846297,
+        "ci_high": 0.056255603322319735,
+        "p_raw": 0.7453254674532547,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": -0.00011176602583418127,
+        "ci_low": -0.04668018022859067,
+        "ci_high": 0.04818418662366229,
+        "p_raw": 0.9247075292470753,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.2856,
+        "Donne over 35": 0.3356,
+        "Uomini under 35": 0.2106,
+        "Uomini over 35": 0.1682
+      },
+      "spearman": {
+        "Donne under 35": 0.1996,
+        "Donne over 35": 0.1121,
+        "Uomini under 35": 0.1692,
+        "Uomini over 35": 0.5191
+      },
+      "mae": {
+        "Donne under 35": 0.4526,
+        "Donne over 35": 0.4829,
+        "Uomini under 35": 0.0642,
+        "Uomini over 35": 0.0003
+      }
+    },
+    "assignment": {
+      "best_pearson": "Donne over 35",
+      "best_spearman": "Uomini over 35",
+      "best_mae": "Donne over 35",
+      "pearson_spearman_agree": 0,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.002953556838545479,
+          "ci_low": -0.04681275421501573,
+          "ci_high": 0.04767951042695667,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini under 35",
+          "delta": 0.007958884030307423,
+          "ci_low": -0.04745640458051221,
+          "ci_high": 0.06025948170538977,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.007847118004473241,
+          "ci_low": -0.04213914029846297,
+          "ci_high": 0.056255603322319735,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "StereoBusters_L33-70B_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.7340401351339434,
+        "p_pearson": 3.0590879340863784e-22,
+        "spearman": 0.6857119153947662,
+        "p_spearman": 1.544024556551807e-18,
+        "mae": 0.1441026805997274,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.7291813420182156,
+        "p_pearson": 7.8283177220944255e-22,
+        "spearman": 0.6846135113834502,
+        "p_spearman": 1.8385906586656654e-18,
+        "mae": 0.13916864326375708,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.6963067531270044,
+        "p_pearson": 2.752545479838491e-19,
+        "spearman": 0.6482764754802739,
+        "p_spearman": 3.9675639233155746e-16,
+        "mae": 0.15609604105571848,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.7113661009961015,
+        "p_pearson": 2.0774370955974365e-20,
+        "spearman": 0.6817557168761323,
+        "p_spearman": 2.8855683855643306e-18,
+        "mae": 0.15538213399503722,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.7340401351339434,
+          "ci_low": 0.6059323044809274,
+          "ci_high": 0.8247032091568148
+        },
+        "spearman": {
+          "estimate": 0.6857119153947662,
+          "ci_low": 0.5468973262419091,
+          "ci_high": 0.7815737466975123
+        },
+        "mae": {
+          "estimate": 0.1441026805997274,
+          "ci_low": 0.12366171626533388,
+          "ci_high": 0.16982064970467967
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.7291813420182156,
+          "ci_low": 0.6063143912155495,
+          "ci_high": 0.8143346914107759
+        },
+        "spearman": {
+          "estimate": 0.6846135113834502,
+          "ci_low": 0.5490900885520752,
+          "ci_high": 0.7771589057084581
+        },
+        "mae": {
+          "estimate": 0.13916864326375708,
+          "ci_low": 0.11941724976280839,
+          "ci_high": 0.16568939753320686
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.6963067531270044,
+          "ci_low": 0.5565456039463548,
+          "ci_high": 0.7966770737165537
+        },
+        "spearman": {
+          "estimate": 0.6482764754802739,
+          "ci_low": 0.49985539699085213,
+          "ci_high": 0.7577943544762634
+        },
+        "mae": {
+          "estimate": 0.15609604105571848,
+          "ci_low": 0.13263309506353863,
+          "ci_high": 0.18572400415444767
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.7113661009961015,
+          "ci_low": 0.5730026050046525,
+          "ci_high": 0.8081503678314192
+        },
+        "spearman": {
+          "estimate": 0.6817557168761323,
+          "ci_low": 0.5349726670847805,
+          "ci_high": 0.7841182231880636
+        },
+        "mae": {
+          "estimate": 0.15538213399503722,
+          "ci_low": 0.13296885856079405,
+          "ci_high": 0.18479475806451615
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": 0.004858793115727789,
+        "ci_low": -0.04444472263895778,
+        "ci_high": 0.05723117880286435,
+        "p_raw": 0.7821217878212179,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.03773338200693899,
+        "ci_low": -0.0033776884182702967,
+        "ci_high": 0.0834250820350305,
+        "p_raw": 0.07439256074392561,
+        "p_holm": 0.44635536446355367
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.02267403413784186,
+        "ci_low": -0.01953621788917153,
+        "ci_high": 0.07295229585081184,
+        "p_raw": 0.28857114288571145,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.0328745888912112,
+        "ci_low": -0.023164638381856017,
+        "ci_high": 0.09015112179525292,
+        "p_raw": 0.2643735626437356,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.01781524102211407,
+        "ci_low": -0.03368283919618363,
+        "ci_high": 0.07466225930280815,
+        "p_raw": 0.5171482851714828,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": -0.015059347869097128,
+        "ci_low": -0.058277814092259086,
+        "ci_high": 0.032676500092570115,
+        "p_raw": 0.5517448255174483,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.5517,
+        "Donne over 35": 0.361,
+        "Uomini under 35": 0.0119,
+        "Uomini over 35": 0.0754
+      },
+      "spearman": {
+        "Donne under 35": 0.3479,
+        "Donne over 35": 0.3478,
+        "Uomini under 35": 0.0136,
+        "Uomini over 35": 0.2907
+      },
+      "mae": {
+        "Donne under 35": 0.2972,
+        "Donne over 35": 0.656,
+        "Uomini under 35": 0.0154,
+        "Uomini over 35": 0.0314
+      }
+    },
+    "assignment": {
+      "best_pearson": "Donne under 35",
+      "best_spearman": "Donne under 35",
+      "best_mae": "Donne over 35",
+      "pearson_spearman_agree": 1,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne over 35",
+          "delta": 0.004858793115727789,
+          "ci_low": -0.04444472263895778,
+          "ci_high": 0.05723117880286435,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini under 35",
+          "delta": 0.03773338200693899,
+          "ci_low": -0.0033776884182702967,
+          "ci_high": 0.0834250820350305,
+          "p_holm": 0.44635536446355367,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.02267403413784186,
+          "ci_low": -0.01953621788917153,
+          "ci_high": 0.07295229585081184,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "Tiz_Gemma3_12B_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.6251608885114998,
+        "p_pearson": 8.429372971040936e-15,
+        "spearman": 0.5768967554661485,
+        "p_spearman": 2.3401106056156098e-12,
+        "mae": 0.23282485233984548,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.6251009064127683,
+        "p_pearson": 8.4936909341073e-15,
+        "spearman": 0.5704090813041468,
+        "p_spearman": 4.654140507291009e-12,
+        "mae": 0.23664966793168882,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.6339262251448757,
+        "p_pearson": 2.726644756720479e-15,
+        "spearman": 0.577403909000944,
+        "p_spearman": 2.216241458987808e-12,
+        "mae": 0.23455400782013686,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.6184880086041942,
+        "p_pearson": 1.9441690428311365e-14,
+        "spearman": 0.5595522230022284,
+        "p_spearman": 1.4230135644510989e-11,
+        "mae": 0.25260421836228286,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.6251608885114998,
+          "ci_low": 0.48504969473733844,
+          "ci_high": 0.7362623657729751
+        },
+        "spearman": {
+          "estimate": 0.5768967554661485,
+          "ci_low": 0.4157705761764265,
+          "ci_high": 0.6949739469123383
+        },
+        "mae": {
+          "estimate": 0.23282485233984548,
+          "ci_low": 0.20101311903680147,
+          "ci_high": 0.2678306167651067
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.6251009064127683,
+          "ci_low": 0.4851839560151006,
+          "ci_high": 0.7299154731689351
+        },
+        "spearman": {
+          "estimate": 0.5704090813041468,
+          "ci_low": 0.4105641877301318,
+          "ci_high": 0.6914310014625599
+        },
+        "mae": {
+          "estimate": 0.23664966793168882,
+          "ci_low": 0.2062677300759013,
+          "ci_high": 0.27000014824478175
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.6339262251448757,
+          "ci_low": 0.4994026840915875,
+          "ci_high": 0.7400418538814226
+        },
+        "spearman": {
+          "estimate": 0.577403909000944,
+          "ci_low": 0.4217688905247637,
+          "ci_high": 0.697641252815632
+        },
+        "mae": {
+          "estimate": 0.23455400782013686,
+          "ci_low": 0.20313227028348,
+          "ci_high": 0.2699523765884653
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.6184880086041942,
+          "ci_low": 0.47580128475894,
+          "ci_high": 0.726744599389443
+        },
+        "spearman": {
+          "estimate": 0.5595522230022284,
+          "ci_low": 0.39887652371599636,
+          "ci_high": 0.6892922310609436
+        },
+        "mae": {
+          "estimate": 0.25260421836228286,
+          "ci_low": 0.2214013957816377,
+          "ci_high": 0.2869764267990074
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": 5.9982098731481415e-05,
+        "ci_low": -0.05928575621579855,
+        "ci_high": 0.062350913899119245,
+        "p_raw": 0.9475052494750525,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.008765336633375975,
+        "ci_low": -0.06573718032762076,
+        "ci_high": 0.045504299487885216,
+        "p_raw": 0.775922407759224,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.0066728799073055844,
+        "ci_low": -0.055360474375583654,
+        "ci_high": 0.07305900075310212,
+        "p_raw": 0.7845215478452154,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.008825318732107457,
+        "ci_low": -0.0793095183990552,
+        "ci_high": 0.05810642916553565,
+        "p_raw": 0.7685231476852314,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.006612897808574103,
+        "ci_low": -0.059824614362237453,
+        "ci_high": 0.07580090365436096,
+        "p_raw": 0.8551144885511449,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.01543821654068156,
+        "ci_low": -0.04181815759915308,
+        "ci_high": 0.08023970523376593,
+        "p_raw": 0.5781421857814218,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.2187,
+        "Donne over 35": 0.2462,
+        "Uomini under 35": 0.3884,
+        "Uomini over 35": 0.1467
+      },
+      "spearman": {
+        "Donne under 35": 0.2338,
+        "Donne over 35": 0.2531,
+        "Uomini under 35": 0.3487,
+        "Uomini over 35": 0.1644
+      },
+      "mae": {
+        "Donne under 35": 0.4307,
+        "Donne over 35": 0.24,
+        "Uomini under 35": 0.3258,
+        "Uomini over 35": 0.0035
+      }
+    },
+    "assignment": {
+      "best_pearson": "Uomini under 35",
+      "best_spearman": "Uomini under 35",
+      "best_mae": "Donne under 35",
+      "pearson_spearman_agree": 1,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.008765336633375975,
+          "ci_low": -0.045504299487885216,
+          "ci_high": 0.06573718032762076,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Donne over 35",
+          "delta": 0.008825318732107457,
+          "ci_low": -0.05810642916553565,
+          "ci_high": 0.0793095183990552,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.01543821654068156,
+          "ci_low": -0.04181815759915308,
+          "ci_high": 0.08023970523376593,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "gsi_gpt4o_both_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.7769252603543211,
+        "p_pearson": 2.821714364467117e-26,
+        "spearman": 0.7442999220899821,
+        "p_spearman": 3.924816239206015e-23,
+        "mae": 0.12639595638346204,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.7649119251595451,
+        "p_pearson": 4.644948358866733e-25,
+        "spearman": 0.7068426210706912,
+        "p_spearman": 4.5926109783570157e-20,
+        "mae": 0.12117528462998103,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.7799053534376219,
+        "p_pearson": 1.3708512417769435e-26,
+        "spearman": 0.7396565086112409,
+        "p_spearman": 1.0060297221574877e-22,
+        "mae": 0.13762829912023464,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.762199693892594,
+        "p_pearson": 8.543376609132517e-25,
+        "spearman": 0.7177791293700042,
+        "p_spearman": 6.5703178446367015e-21,
+        "mae": 0.1436488833746898,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.7769252603543211,
+          "ci_low": 0.6733339379216638,
+          "ci_high": 0.8485007736445862
+        },
+        "spearman": {
+          "estimate": 0.7442999220899821,
+          "ci_low": 0.6261510493470189,
+          "ci_high": 0.8195289514927001
+        },
+        "mae": {
+          "estimate": 0.12639595638346204,
+          "ci_low": 0.10627314288959565,
+          "ci_high": 0.15259274193548386
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.7649119251595451,
+          "ci_low": 0.648850742583778,
+          "ci_high": 0.8401959509421825
+        },
+        "spearman": {
+          "estimate": 0.7068426210706912,
+          "ci_low": 0.5738742391427869,
+          "ci_high": 0.7949730983140147
+        },
+        "mae": {
+          "estimate": 0.12117528462998103,
+          "ci_low": 0.10367045185009491,
+          "ci_high": 0.1473412891366224
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.7799053534376219,
+          "ci_low": 0.683553610547652,
+          "ci_high": 0.8474807715113707
+        },
+        "spearman": {
+          "estimate": 0.7396565086112409,
+          "ci_low": 0.6273641605849006,
+          "ci_high": 0.8207836624843948
+        },
+        "mae": {
+          "estimate": 0.13762829912023464,
+          "ci_low": 0.11587591642228741,
+          "ci_high": 0.16600629276637338
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.762199693892594,
+          "ci_low": 0.6483797278834846,
+          "ci_high": 0.8366817380738685
+        },
+        "spearman": {
+          "estimate": 0.7177791293700042,
+          "ci_low": 0.5882447279877596,
+          "ci_high": 0.8072703085135252
+        },
+        "mae": {
+          "estimate": 0.1436488833746898,
+          "ci_low": 0.12016491935483871,
+          "ci_high": 0.17394962779156325
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": 0.012013335194775987,
+        "ci_low": -0.0303996536505463,
+        "ci_high": 0.06376550696528874,
+        "p_raw": 0.5489451054894511,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.0029800930833008277,
+        "ci_low": -0.0455397972864431,
+        "ci_high": 0.03776988594298253,
+        "p_raw": 0.9347065293470653,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.014725566461727069,
+        "ci_low": -0.026443480382159396,
+        "ci_high": 0.06640973876199474,
+        "p_raw": 0.4567543245675432,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.014993428278076815,
+        "ci_low": -0.07263608805123857,
+        "ci_high": 0.032192151160435466,
+        "p_raw": 0.5309469053094691,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.0027122312669510817,
+        "ci_low": -0.04407476857821819,
+        "ci_high": 0.04951934292384334,
+        "p_raw": 0.9073092690730927,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.017705659545027896,
+        "ci_low": -0.023811610854592113,
+        "ci_high": 0.06986484654223643,
+        "p_raw": 0.3935606439356064,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.3539,
+        "Donne over 35": 0.1403,
+        "Uomini under 35": 0.4301,
+        "Uomini over 35": 0.0757
+      },
+      "spearman": {
+        "Donne under 35": 0.4402,
+        "Donne over 35": 0.0334,
+        "Uomini under 35": 0.4599,
+        "Uomini over 35": 0.0665
+      },
+      "mae": {
+        "Donne under 35": 0.3007,
+        "Donne over 35": 0.66,
+        "Uomini under 35": 0.0296,
+        "Uomini over 35": 0.0097
+      }
+    },
+    "assignment": {
+      "best_pearson": "Uomini under 35",
+      "best_spearman": "Donne under 35",
+      "best_mae": "Donne over 35",
+      "pearson_spearman_agree": 0,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.0029800930833008277,
+          "ci_low": -0.03776988594298253,
+          "ci_high": 0.0455397972864431,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Donne over 35",
+          "delta": 0.014993428278076815,
+          "ci_low": -0.032192151160435466,
+          "ci_high": 0.07263608805123857,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.017705659545027896,
+          "ci_low": -0.023811610854592113,
+          "ci_high": 0.06986484654223643,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "gsi_gpt5nano_split_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.5943749026373829,
+        "p_pearson": 3.3981839121131716e-13,
+        "spearman": 0.5785627710015259,
+        "p_spearman": 1.9565622691741605e-12,
+        "mae": 0.1874931849159473,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.5977382243501199,
+        "p_pearson": 2.3128468487798345e-13,
+        "spearman": 0.5854084922252182,
+        "p_spearman": 9.27658250149111e-13,
+        "mae": 0.18298742884250474,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.6020224356200332,
+        "p_pearson": 1.4075235432429001e-13,
+        "spearman": 0.5788348619489748,
+        "p_spearman": 1.9000066184743158e-12,
+        "mae": 0.18925586510263934,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.5774169430307415,
+        "p_pearson": 2.2131431988175112e-12,
+        "spearman": 0.5618347419404073,
+        "p_spearman": 1.1288180301081169e-11,
+        "mae": 0.1999044665012407,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.5943749026373829,
+          "ci_low": 0.4428996153638655,
+          "ci_high": 0.716700625032804
+        },
+        "spearman": {
+          "estimate": 0.5785627710015259,
+          "ci_low": 0.4227577116025888,
+          "ci_high": 0.6924728803298488
+        },
+        "mae": {
+          "estimate": 0.1874931849159473,
+          "ci_low": 0.15988147432985006,
+          "ci_high": 0.2201500170377101
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.5977382243501199,
+          "ci_low": 0.4473339363414025,
+          "ci_high": 0.715295291771208
+        },
+        "spearman": {
+          "estimate": 0.5854084922252182,
+          "ci_low": 0.43119674309022865,
+          "ci_high": 0.6991447327779174
+        },
+        "mae": {
+          "estimate": 0.18298742884250474,
+          "ci_low": 0.15687734226755223,
+          "ci_high": 0.21494070208728652
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.6020224356200332,
+          "ci_low": 0.45079627230602476,
+          "ci_high": 0.7225649236240504
+        },
+        "spearman": {
+          "estimate": 0.5788348619489748,
+          "ci_low": 0.42803106435523275,
+          "ci_high": 0.6994853692433712
+        },
+        "mae": {
+          "estimate": 0.18925586510263934,
+          "ci_low": 0.16164287023460414,
+          "ci_high": 0.2228403286901271
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.5774169430307415,
+          "ci_low": 0.41955397523664084,
+          "ci_high": 0.7016206638152193
+        },
+        "spearman": {
+          "estimate": 0.5618347419404073,
+          "ci_low": 0.3977683265830669,
+          "ci_high": 0.6843329942449431
+        },
+        "mae": {
+          "estimate": 0.1999044665012407,
+          "ci_low": 0.17201978908188584,
+          "ci_high": 0.2320884305210918
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": -0.0033633217127370107,
+        "ci_low": -0.06375589059139408,
+        "ci_high": 0.05777346807882471,
+        "p_raw": 0.9559044095590441,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.007647532982650307,
+        "ci_low": -0.061118308081226876,
+        "ci_high": 0.042857637990487835,
+        "p_raw": 0.76992300769923,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.01695795960664137,
+        "ci_low": -0.04196931989871329,
+        "ci_high": 0.07925632937008463,
+        "p_raw": 0.5525447455254474,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": -0.004284211269913296,
+        "ci_low": -0.07181814827867963,
+        "ci_high": 0.05974613473043921,
+        "p_raw": 0.8705129487051295,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.02032128131937838,
+        "ci_low": -0.04178144140284703,
+        "ci_high": 0.08439822244689264,
+        "p_raw": 0.5265473452654734,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.024605492589291678,
+        "ci_low": -0.030904139557458736,
+        "ci_high": 0.08655360517629626,
+        "p_raw": 0.36996300369963003,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.22,
+        "Donne over 35": 0.3178,
+        "Uomini under 35": 0.396,
+        "Uomini over 35": 0.0662
+      },
+      "spearman": {
+        "Donne under 35": 0.204,
+        "Donne over 35": 0.395,
+        "Uomini under 35": 0.3264,
+        "Uomini over 35": 0.0746
+      },
+      "mae": {
+        "Donne under 35": 0.2102,
+        "Donne over 35": 0.5909,
+        "Uomini under 35": 0.1861,
+        "Uomini over 35": 0.0128
+      }
+    },
+    "assignment": {
+      "best_pearson": "Uomini under 35",
+      "best_spearman": "Donne over 35",
+      "best_mae": "Donne over 35",
+      "pearson_spearman_agree": 0,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.007647532982650307,
+          "ci_low": -0.042857637990487835,
+          "ci_high": 0.061118308081226876,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Donne over 35",
+          "delta": 0.004284211269913296,
+          "ci_low": -0.05974613473043921,
+          "ci_high": 0.07181814827867963,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.024605492589291678,
+          "ci_low": -0.030904139557458736,
+          "ci_high": 0.08655360517629626,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  },
+  "gsi_qwen3_14b_both_matched124": {
+    "n_items": 124,
+    "point": {
+      "Donne under 35": {
+        "pearson": 0.5881380205540376,
+        "p_pearson": 6.855452587343526e-13,
+        "spearman": 0.534048514623085,
+        "p_spearman": 1.686076994482424e-10,
+        "mae": 0.18767378464334392,
+        "n": 124
+      },
+      "Donne over 35": {
+        "pearson": 0.6017299317850993,
+        "p_pearson": 1.4564120768910586e-13,
+        "spearman": 0.5551880143460586,
+        "p_spearman": 2.2050278322903045e-11,
+        "mae": 0.1775462523719165,
+        "n": 124
+      },
+      "Uomini under 35": {
+        "pearson": 0.574383349350832,
+        "p_pearson": 3.0598165453193095e-12,
+        "spearman": 0.5172456481324963,
+        "p_spearman": 7.704852341593579e-10,
+        "mae": 0.198933284457478,
+        "n": 124
+      },
+      "Uomini over 35": {
+        "pearson": 0.5706054377076185,
+        "p_pearson": 4.559292415476629e-12,
+        "spearman": 0.5253895723942155,
+        "p_spearman": 3.7276769713508827e-10,
+        "mae": 0.20150372208436726,
+        "n": 124
+      }
+    },
+    "intervals": {
+      "Donne under 35": {
+        "pearson": {
+          "estimate": 0.5881380205540376,
+          "ci_low": 0.44129745383966745,
+          "ci_high": 0.706731336664851
+        },
+        "spearman": {
+          "estimate": 0.534048514623085,
+          "ci_low": 0.37580577365736567,
+          "ci_high": 0.6576154441017293
+        },
+        "mae": {
+          "estimate": 0.18767378464334392,
+          "ci_low": 0.1611706610631531,
+          "ci_high": 0.21903824965924582
+        }
+      },
+      "Donne over 35": {
+        "pearson": {
+          "estimate": 0.6017299317850993,
+          "ci_low": 0.45666858170888774,
+          "ci_high": 0.7160726463233368
+        },
+        "spearman": {
+          "estimate": 0.5551880143460586,
+          "ci_low": 0.40693557833000654,
+          "ci_high": 0.6763700992052615
+        },
+        "mae": {
+          "estimate": 0.1775462523719165,
+          "ci_low": 0.1524973315939279,
+          "ci_high": 0.20725501067362426
+        }
+      },
+      "Uomini under 35": {
+        "pearson": {
+          "estimate": 0.574383349350832,
+          "ci_low": 0.41982531190748695,
+          "ci_high": 0.6980723861413489
+        },
+        "spearman": {
+          "estimate": 0.5172456481324963,
+          "ci_low": 0.3514514995506193,
+          "ci_high": 0.6477866298508926
+        },
+        "mae": {
+          "estimate": 0.198933284457478,
+          "ci_low": 0.171529722629521,
+          "ci_high": 0.23078907013685238
+        }
+      },
+      "Uomini over 35": {
+        "pearson": {
+          "estimate": 0.5706054377076185,
+          "ci_low": 0.41514078181942016,
+          "ci_high": 0.6920177815794951
+        },
+        "spearman": {
+          "estimate": 0.5253895723942155,
+          "ci_low": 0.3567157998523709,
+          "ci_high": 0.6508414111222885
+        },
+        "mae": {
+          "estimate": 0.20150372208436726,
+          "ci_low": 0.17461253101736976,
+          "ci_high": 0.23207332506203474
+        }
+      }
+    },
+    "pairwise_pearson": {
+      "Donne under 35 vs Donne over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Donne over 35",
+        "delta": -0.013591911231061626,
+        "ci_low": -0.06785282769360401,
+        "ci_high": 0.043489321527146706,
+        "p_raw": 0.6623337666233376,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini under 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.013754671203205615,
+        "ci_low": -0.03392939579760777,
+        "ci_high": 0.06367118881566507,
+        "p_raw": 0.5761423857614238,
+        "p_holm": 1.0
+      },
+      "Donne under 35 vs Uomini over 35": {
+        "group_1": "Donne under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.01753258284641912,
+        "ci_low": -0.03153331608695851,
+        "ci_high": 0.07276247099670995,
+        "p_raw": 0.4677532246775322,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini under 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini under 35",
+        "delta": 0.02734658243426724,
+        "ci_low": -0.03369045101429362,
+        "ci_high": 0.08696553325020992,
+        "p_raw": 0.3775622437756224,
+        "p_holm": 1.0
+      },
+      "Donne over 35 vs Uomini over 35": {
+        "group_1": "Donne over 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.031124494077480747,
+        "ci_low": -0.024017246108677722,
+        "ci_high": 0.09003366556706707,
+        "p_raw": 0.27957204279572045,
+        "p_holm": 1.0
+      },
+      "Uomini under 35 vs Uomini over 35": {
+        "group_1": "Uomini under 35",
+        "group_2": "Uomini over 35",
+        "delta": 0.003777911643213505,
+        "ci_low": -0.04277672625124878,
+        "ci_high": 0.054725023383242075,
+        "p_raw": 0.8513148685131486,
+        "p_holm": 1.0
+      }
+    },
+    "selection_frequency": {
+      "pearson": {
+        "Donne under 35": 0.2588,
+        "Donne over 35": 0.5934,
+        "Uomini under 35": 0.0921,
+        "Uomini over 35": 0.0557
+      },
+      "spearman": {
+        "Donne under 35": 0.1859,
+        "Donne over 35": 0.6631,
+        "Uomini under 35": 0.0616,
+        "Uomini over 35": 0.0894
+      },
+      "mae": {
+        "Donne under 35": 0.1132,
+        "Donne over 35": 0.8692,
+        "Uomini under 35": 0.0118,
+        "Uomini over 35": 0.0058
+      }
+    },
+    "assignment": {
+      "best_pearson": "Donne over 35",
+      "best_spearman": "Donne over 35",
+      "best_mae": "Donne over 35",
+      "pearson_spearman_agree": 1,
+      "supported_against_all": 0,
+      "best_vs_others": [
+        {
+          "alternative": "Donne under 35",
+          "delta": 0.013591911231061626,
+          "ci_low": -0.043489321527146706,
+          "ci_high": 0.06785282769360401,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini under 35",
+          "delta": 0.02734658243426724,
+          "ci_low": -0.03369045101429362,
+          "ci_high": 0.08696553325020992,
+          "p_holm": 1.0,
+          "supported": 0
+        },
+        {
+          "alternative": "Uomini over 35",
+          "delta": 0.031124494077480747,
+          "ci_low": -0.024017246108677722,
+          "ci_high": 0.09003366556706707,
+          "p_holm": 1.0,
+          "supported": 0
+        }
+      ]
+    }
+  }
+}
